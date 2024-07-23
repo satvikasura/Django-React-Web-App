@@ -1,0 +1,48 @@
+.recipes {
+    display : flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.recipe-container {
+    flex: 1 1 21rem;
+    display: flex;
+    margin: 10px 20px;
+    flex-direction: column;
+    background : #d6995c;
+    box-shadow: 0px 10px 8px #999;
+    border-radius: 1rem;
+    padding: 10px 20px;
+    align-self: normal;
+    color : white;
+}
+
+.recipe-title, .recipe-detail {
+    margin: 0.5rem 5%;
+    text-align: center;
+}
+
+.delete-btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.delete-btn {
+    width : 180px;
+    cursor : pointer;
+    text-align : center;
+    padding: 0.5rem 1rem;
+    background: #8f5924;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0.5rem 0.5rem;
+    border-color: #8f5924;
+    color: white;
+    margin-top: auto;
+    
+}
+
+.delete-btn:hover {
+    transform : scale(1.15);
+}
