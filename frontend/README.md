@@ -13,7 +13,7 @@ Commands used to create and manage the frontend:
 * npm install axios react-router-dom jwt-decode
 * npm run dev
 
-Icons' attributions for the author:
+Asset icons' attributions for the author:
 * Chef person icon created by Freepik - Flaticon
 * Logout icon created by Secret Studio - Flaticon
 * Add more icon created by Rakib Hassan Rahim - Flaticon
