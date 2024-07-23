@@ -1,0 +1,1 @@
+JWT has been used to establish user authentication for the website. User can create their profile and login to the website to store and manage their recipes (name, description, ingredients, process etc).
